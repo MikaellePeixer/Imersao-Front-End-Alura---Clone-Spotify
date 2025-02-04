@@ -11,6 +11,22 @@ Projeto desenvolvido durante a Imersão Front-End da Alura, com o objetivo de re
 - CSS Grid
 - React (introdução na última aula)
 
+## 🌐 Recursos Utilizados
+- Font Awesome para ícones  
+- Reset CSS  
+- Variáveis CSS  
+- API de artistas (JSON)  
+
+## 🔗 Links Importantes
+- [Curso Imersão Front-End Alura](#)  
+- [Repositório Original do Curso](#)  
+
+## 📌 Desafios Realizados
+- Sidebar de navegação  
+- Layout responsivo  
+- Manipulação de DOM  
+- Introdução a componentes React  
+
 ## 🌟 Aulas e Aprendizados
 
 ### Aula 01: Revisão de HTML, CSS e JS

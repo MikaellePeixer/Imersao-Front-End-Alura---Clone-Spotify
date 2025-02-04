@@ -44,25 +44,39 @@ Projeto desenvolvido durante a Imersão Front-End da Alura, com o objetivo de re
 ```bash
 git clone https://github.com/seu-usuario/spotify-clone.git
 
-### Abra o arquivo index.html em seu navegador
-🌐 Recursos Utilizados
-Font Awesome para ícones
-Reset CSS
-Variáveis CSS
-API de artistas (JSON)
-🔗 Links Importantes
-Curso Imersão Front-End Alura
-Repositório Original do Curso
-📌 Desafios Realizados
- Sidebar de navegação
- Layout responsivo
- Manipulação de DOM
- Introdução a componentes React
-🤝 Como Contribuir
-Faça um fork do projeto
-Crie uma branch para sua feature (git checkout -b feature/AmazingFeature)
-Commit suas mudanças (git commit -m 'Add some AmazingFeature')
-Push para a branch (git push origin feature/AmazingFeature)
+# Abra o arquivo `index.html` em seu navegador
+
+## 🌐 Recursos Utilizados
+- Font Awesome para ícones  
+- Reset CSS  
+- Variáveis CSS  
+- API de artistas (JSON)  
+
+## 🔗 Links Importantes
+- [Curso Imersão Front-End Alura](#)  
+- [Repositório Original do Curso](#)  
+
+## 📌 Desafios Realizados
+- Sidebar de navegação  
+- Layout responsivo  
+- Manipulação de DOM  
+- Introdução a componentes React  
+
+## 🤝 Como Contribuir
+1. Faça um fork do projeto  
+2. Crie uma branch para sua feature:  
+   ```sh
+   git checkout -b feature/AmazingFeature
+Commit suas mudanças:
+sh
+Copiar
+Editar
+git commit -m 'Add some AmazingFeature'
+Push para a branch:
+sh
+Copiar
+Editar
+git push origin feature/AmazingFeature
 Abra um Pull Request
 📄 Licença
 Distribuído sob a licença MIT. Veja LICENSE para mais informações.
